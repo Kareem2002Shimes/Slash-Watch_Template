@@ -1,2 +1,10 @@
 # Slash-Watch_Template
-I made a new template using HTML CSS JS
+
+## Live Preview: 
+
+Coded by - [kareem shimes]
+
+![](/kareem.PNG)
+
+## Project Details
+I made a new template using HTML , CSS , JS , Font Awesome library.
