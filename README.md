@@ -4,7 +4,7 @@
 
 Coded by - [kareem shimes]
 
-![](/kareem.PNG)
+![](/slashWatch.PNG)
 
 ## Project Details
 I made a new template using HTML , CSS , JS , Font Awesome library.
