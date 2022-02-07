@@ -208,6 +208,7 @@ header start
 .header .logo i {
   margin: 0 2px;
   color: var(--second-color);
+  line-height:40px;
 }
 .header .nav-menu ul {
   display: flex;
